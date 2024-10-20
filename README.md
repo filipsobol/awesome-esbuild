@@ -54,6 +54,7 @@
 - [esbuild-plugin-cache](https://github.com/dalcib/esbuild-plugin-cache): A plugin to cache http/https modules.
 - [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
 - [vite-esbuild-typescript-checker](https://github.com/time4dev/vite-esbuild-typescript-checker) - Fast type checker (TypeScript, Vue SFC, etc.) Based on the webpack 5 plugin (fork-ts-checker-webpack-plugin).
+- [sonda](https://github.com/filipsobol/sonda): Visualizer and analyzer for JavaScript and CSS bundles.
 
 ## Templates
 
